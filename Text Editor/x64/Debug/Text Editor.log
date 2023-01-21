@@ -1,0 +1,218 @@
+﻿  Editor.cpp
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(5,42): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(11,29): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(18,22): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(18,47): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(24,42): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(25,28): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(27,28): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(33,22): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(33,46): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\Editor.cpp(38,45): warning C4244: "Argument": Konvertierung von "T" in "const __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+  main.cpp
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(40,22): warning C4244: "return": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(44,23): warning C4244: "return": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(52,55): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(55,41): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(102,57): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(103,67): warning C4244: "Argument": Konvertierung von "T" in "const __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(105,64): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(105,74): warning C4244: "=": Konvertierung von "unsigned __int64" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(106,38): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(112,56): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(115,61): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(115,43): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(118,37): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(118,78): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(119,39): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(119,81): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(126,39): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(126,81): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(127,74): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(127,56): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(131,38): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(131,80): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(132,73): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(132,55): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(147,67): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(155,68): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(156,65): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(156,75): warning C4244: "=": Konvertierung von "unsigned __int64" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(164,68): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(165,65): warning C4244: "Argument": Konvertierung von "T" in "const unsigned __int64", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(165,75): warning C4244: "=": Konvertierung von "unsigned __int64" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(198,54): warning C4305: "Argument": Verkürzung von "double" in "float"
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(198,70): warning C4305: "Argument": Verkürzung von "double" in "float"
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(198,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(198,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(202,56): warning C4305: "Argument": Verkürzung von "double" in "float"
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(202,101): warning C4305: "Argument": Verkürzung von "double" in "float"
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(202,103): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(202,58): warning C4244: "Argument": Konvertierung von "unsigned __int64" in "float", möglicher Datenverlust
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(204,38): warning C4305: "Argument": Verkürzung von "double" in "float"
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(204,54): warning C4305: "Argument": Verkürzung von "double" in "float"
+E:\Dev\C++\Text Editor\Text Editor\src\main.cpp(205,46): warning C4305: "Argument": Verkürzung von "double" in "float"
+  Renderer.cpp
+E:\Dev\C++\Text Editor\Text Editor\src\Renderer.cpp(132,24): warning C4838: Konvertierung von "FT_Pos" zu "unsigned int" erfordert eine einschränkende Konvertierung
+  Window.cpp
+  Code wird generiert...
+glew32s.lib(glew.obj) : warning LNK4099: PDB "vc120.pdb" wurde nicht mit "glew32s.lib(glew.obj)" oder an "E:\Dev\C++\Text Editor\x64\Debug\vc120.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Text Editor.vcxproj -> E:\Dev\C++\Text Editor\x64\Debug\Text Editor.exe

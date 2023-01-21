@@ -1,0 +1,59 @@
+﻿  autofit.c
+  ftbase.c
+  ftbbox.c
+  ftbdf.c
+  ftbitmap.c
+  ftcid.c
+  ftfstype.c
+  ftgasp.c
+  ftglyph.c
+  ftgxval.c
+  ftinit.c
+  ftmm.c
+  ftotval.c
+  ftpatent.c
+  ftpfr.c
+  ftstroke.c
+  ftsynth.c
+  ftsystem.c
+  fttype1.c
+  ftwinfnt.c
+  bdf.c
+  ftcache.c
+  cff.c
+  type1cid.c
+  ftgzip.c
+  ftlzw.c
+  pcf.c
+  pfr.c
+  psaux.c
+  pshinter.c
+  psmodule.c
+  raster.c
+  sfnt.c
+  smooth.c
+  truetype.c
+  type1.c
+  type42.c
+  winfnt.c
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\sfnt\sfdriver.c(838,13): warning C4267: "=": Konvertierung von "size_t" nach "FT_UInt", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\sfnt\sfnt.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\sfnt\sfdriver.c(989,36): warning C4244: "Funktion": Konvertierung von "__int64" in "const unsigned int", möglicher Datenverlust (Quelldatei wird kompiliert ..\..\..\src\sfnt\sfnt.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\smooth\ftgrays.c(1773,20): warning C4267: "+=": Konvertierung von "size_t" nach "TCoord", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\smooth\smooth.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\psaux\psintrp.c(1002,25): warning C4267: "=": Konvertierung von "size_t" nach "FT_Fast", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\psaux\psaux.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\truetype\ttgload.c(1797,42): warning C4312: "Typumwandlung": Konvertierung von "unsigned long" in größeren Typ "void *" (Quelldatei wird kompiliert ..\..\..\src\truetype\truetype.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(273,46): warning C4267: "=": Konvertierung von "size_t" nach "FT_ULong", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(293,55): warning C4267: "=": Konvertierung von "size_t" nach "FT_ULong", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(325,62): warning C4267: "=": Konvertierung von "size_t" nach "FT_ULong", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(355,19): warning C4267: "=": Konvertierung von "size_t" nach "FT_UInt", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(562,54): warning C4267: "=": Konvertierung von "size_t" nach "FT_ULong", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(568,53): warning C4267: "=": Konvertierung von "size_t" nach "FT_ULong", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(574,56): warning C4267: "=": Konvertierung von "size_t" nach "FT_ULong", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(580,58): warning C4267: "=": Konvertierung von "size_t" nach "FT_ULong", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1driver.c(586,53): warning C4267: "=": Konvertierung von "size_t" nach "FT_ULong", Datenverlust möglich (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1load.c(1581,64): warning C4244: "=": Konvertierung von "__int64" in "FT_Int", möglicher Datenverlust (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type1\t1load.c(1742,36): warning C4244: "=": Konvertierung von "__int64" in "FT_Int", möglicher Datenverlust (Quelldatei wird kompiliert ..\..\..\src\type1\type1.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\type42\t42parse.c(821,62): warning C4244: "=": Konvertierung von "__int64" in "FT_Int", möglicher Datenverlust (Quelldatei wird kompiliert ..\..\..\src\type42\type42.c)
+E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\src\truetype\ttgxvar.c(2136): warning C4701: Die möglicherweise nicht initialisierte lokale Variable "fvar_head" wurde verwendet.
+  ftdebug.c
+     Bibliothek "..\..\..\objs\x64\Debug\freetype.lib" und Objekt "..\..\..\objs\x64\Debug\freetype.exp" werden erstellt.
+  freetype.vcxproj -> E:\Dev\C++\Text Editor\Text Editor\Dependencies\freetype-2.9.1\objs\x64\Debug\freetype.dll
